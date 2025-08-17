@@ -13,3 +13,7 @@ The following files can be found and used as you like:
 - [PCB design](PCB_PCB_ESP8266_SensorBoard_With_Battery_protection.json)
 - [Schematic](Schematic_ESP8266_SensorBoard_With_Battery_protection.json)
 - [Bill of Materials (BOM)](BOM_ESP8266_SensorBoard_With_Battery_protection.xlsx)
+
+## images
+<img src="images/Schematic.png"  alt="Schematic" />
+<img src="images/PCB.png" alt="PCB" />
